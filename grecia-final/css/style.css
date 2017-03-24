@@ -1,5 +1,6 @@
 body {
     background-color: #FFC7E0;
+    font-family: 'Space Mono', monospace;
 }
 
 footer {
@@ -15,31 +16,25 @@ footer {
     margin: 0 auto;
 }
 
-margin: 0 auto 0 auto;
 
-}
-
-}
-
-/* for main nav */
 ul {
     padding-left: 0;
     margin-left: 0;
-    background-color: #FFFFFF;
+
     color: #ffffff;
     float: center;
     width: 100%;
-    font-family: arial, helvetica, sans-serif;
+    font-family: 'Baloo Bhaina', cursive;
 }
 li {
     display: inline;
+
 }
 ul li a {
     padding: 0.2em 1em;
     background-color: #E6D6FF;
     color: #ffffff;
     text-decoration: none;
-    float: left;
     border-right: 3px solid #ffffff;
 }
 ul li a:hover {
